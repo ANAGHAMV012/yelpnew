@@ -364,6 +364,7 @@ form{
     padding: 16px 16px 20px;
     text-decoration: none;
     align-items: center;
+    text-wrap: nowrap;
 }
 .restau span{
     display: flex;
